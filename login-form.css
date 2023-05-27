@@ -1,0 +1,16 @@
+
+body{
+    height: 400px;
+    width: auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+#account{
+    margin-bottom: 20px;
+}
+#account-number{
+    margin-bottom: 20px;
+}
+#pass-word{
+    margin-bottom: 20px;
+}
